@@ -20,8 +20,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=radheshyamgupta01&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </div>
 
-
-
+# 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=radheshyamgupta01&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 
 
