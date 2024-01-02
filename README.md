@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radheshyam Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-📫 How to reach me **radheshyamgupta008@gmail.com**
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/radheshyam-gupta-620a24266/)
 
 # 💻 Tech Stack:
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
@@ -29,5 +25,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=radheshyamgupta01&icon=0&color=0)](https://visitcount.itsvg.in)
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
